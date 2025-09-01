@@ -1,0 +1,6 @@
+export AZURE_KEY_VAULT_URL=""
+export ECC256_KEY_NAME=""
+export ECC384_KEY_NAME=""
+export RSA2048_KEY_NAME=""
+export RSA3072_KEY_NAME=""
+export RSA4096_KEY_NAME=""
