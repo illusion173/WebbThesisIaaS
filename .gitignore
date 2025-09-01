@@ -1,5 +1,4 @@
-### Jeremiah's gitignore ###
-
+### Gitignore ###
 bin
 share
 node_modules
